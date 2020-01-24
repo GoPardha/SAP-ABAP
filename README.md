@@ -1,5 +1,5 @@
 # SAP-ABAP
 
 ...
-This is a Open source code base
+This is an Open source code base
 ...
